@@ -30,7 +30,7 @@ results = cursor.fetchall()
 # fetch the result (single)
 # results = cursor.fetchone()
 
-# close the connection 
+# close the connection
 connection.close()
 
 # print results
